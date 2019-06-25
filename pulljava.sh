@@ -1,3 +1,2 @@
 Hi
-am from pull class
-but fetched 
+am from java class not from pull and fetch 
